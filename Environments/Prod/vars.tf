@@ -1,0 +1,6 @@
+variable "rgprod" {
+  
+}
+variable "saprod" {
+  
+}
